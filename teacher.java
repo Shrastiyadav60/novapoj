@@ -1,3 +1,5 @@
 class teacher {
-  string a = "om";
+  void techer(){
+    System.out.println("kalajahh");
+  }
 }
