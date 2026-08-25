@@ -1,3 +1,5 @@
 class teacher {
-  string a = "om";
+  void Studentdata() {
+    System.out.println("hy");
+  }
 }
